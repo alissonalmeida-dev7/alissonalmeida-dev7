@@ -11,7 +11,7 @@ Systems Development Student at SENAI Paulo Antonio Skaf · Diadema, São Paulo, 
 
 ---
 
-Currently in my second year of the Systems Development technical course, with hands-on experience in embedded systems, IoT and backend communication protocols. Most of my projects involve C/C++, ESP32 and MQTT.
+Currently in my second year of the Systems Development technical course, with hands-on experience in embedded systems, IoT and backend communication protocols. Most of my projects involve C/C++, ESP32, MQTT and AWS.
 
 **Areas of interest:** Systems Development · IoT · Data Science
 
