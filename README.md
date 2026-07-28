@@ -1,7 +1,7 @@
 <h1 align="center">Alisson Almeida Gomes</h1>
 
 <p align="center">
-Systems Development Student at SENAI Paulo Antonio Skaf · Diadema, São Paulo, Brasil
+Systems Development Student at SENAI Paulo Antonio Skaf · São Paulo, Brasil
 </p>
 
 <p align="center">
